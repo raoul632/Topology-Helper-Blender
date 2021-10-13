@@ -1,6 +1,5 @@
 import bpy
 from bpy.types import Operator
-from bpy.props import FloatVectorProperty
 from bpy import data as D, context as C
 import bmesh
 from code import InteractiveConsole
